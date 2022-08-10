@@ -12,4 +12,13 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<div id="pviews" align="center">
+  <img src="https://komarev.com/ghpvc/?username=PRATHAM-099&style=flat-square&color=blue" align="center"/>
+</div>
+<div id="hi" align="center">
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 
