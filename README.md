@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200" width="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200" width="275"/>
 </div>
 <div id="badges" align="center">
    <a href="https://www.linkedin.com/in/pratham-rathod-a00846241">
@@ -20,7 +20,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif?raw=true" width="600" height="400"/>
+  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif?raw=true" width="275" height="200"/>
 </div>
 
 ## :man_technologist: About Me :-
