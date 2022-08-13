@@ -31,7 +31,7 @@
 
 :calendar: It's been 19 years and I love the way life is treating me.
 
-:sparkles: My life has presented me with the best moments to smile about and the worst ones to learn.
+:sparkles: My life has presented me with the beautiful moments to smile about and the worst ones to learn.
 
 :man_technologist: Right now I'm just working on improving my coding skills.
 
