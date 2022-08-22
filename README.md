@@ -5,11 +5,11 @@
    <a href="https://www.linkedin.com/in/pratham-rathod-a00846241">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" height="30px" width="120px" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://twitter.com/Pratham_099">
-    <img src="https://img.shields.io/badge/Twitter-00acee?style=flat&logo=twitter&logoColor=white" height="30px" width="120px" alt="Twitter Badge"/>
-  </a>
   <a href="https://www.facebook.com/rathod.pratham.73/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white" height="30px" width="120px" alt="Twitter Badge"/>
+  </a>
+   <a href="https://twitter.com/Pratham_099">
+    <img src="https://img.shields.io/badge/Twitter-00acee?style=flat&logo=twitter&logoColor=white" height="30px" width="120px" alt="Twitter Badge"/>
   </a>
 </div>
 <div id="pviews" align="center">
