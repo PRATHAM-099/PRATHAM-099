@@ -27,7 +27,7 @@
 
 :raising_hand_man: I'm Pratham. It's nice to have you on my profile.
 
-🎓 Currently the 2nd year of BCA is going pretty well.
+🎓 Currently sophomore pursuing a BCA degree.
 
 :calendar: It's been 19 years and I love the way life is treating me.
 
