@@ -23,36 +23,56 @@
   <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif?raw=true" width="275" height="200"/>
 </div>
 
-## :man_technologist: About Me :-
+<div align="center">
+  <h1> ABOUT ME </h1>
 
-:raising_hand_man: I'm Pratham. It's nice to have you on my profile.
+  :raising_hand_man: I'm Pratham. It's nice to have you on my profile :raising_hand_man:
 
-🎓 Currently sophomore pursuing a BCA degree.
+  🎓 Currently sophomore pursuing a BCA degree 🎓
 
-:calendar: It's been 19 years and I love the way life is treating me.
+  :calendar: It's been 19 years and I love the way life is treating me :calendar:
 
-:sparkles: My life has presented me with the beautiful moments to smile about and the worst ones to learn.
+  :sparkles: My life has presented me with the beautiful moments to smile about and the worst ones to learn :sparkles:
 
-:man_technologist: Right now I'm just working on improving my coding skills.
+  :man_technologist: Right now I'm just working on improving my coding skills :man_technologist:
 
-⏳ Time is too precious to waste, so start investing it in your passion. Belive me, you'll get some damn results.
-
-
-## :hammer_and_pick: Langauges and Tools :-
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vs" alt="vs" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="60" height="60"/>&nbsp;
+  ⏳ Time is too precious to waste, so start investing it in your passion. Belive me, you'll get some damn results ⏳
 </div>
 
+<div align="center">
+  <h1> LANGUAGES AND TOOLS </h1>
 
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vs" alt="vs" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="60" height="60"/>&nbsp;
+  </div>
+</div>
 
+<div align="center">
+  <h1> STATS </h1>
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRATHAM-099&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>  
+  
+<div align="center">  
+
+  <h1> TOP LANGUAGES USED </h1>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM-099&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+</div>
