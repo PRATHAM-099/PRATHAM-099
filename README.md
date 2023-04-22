@@ -1,6 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="200" width="275"/>
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif?raw=true" width="275" height="200"/>
 </div>
+
 <div id="badges" align="center">
    <a href="https://www.linkedin.com/in/pratham-rathod-a00846241">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" height="30px" width="120px" alt="LinkedIn Badge"/>
@@ -14,13 +15,6 @@
 </div>
 <div id="pviews" align="center">
   <img src="https://komarev.com/ghpvc/?username=PRATHAM-099&style=flat&color=blue" height="20px" width="110px" align="center"/>
-</div>
-<div id="hi" align="center">
-  <h1>HEY THERE
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-</div>
-<div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif?raw=true" width="275" height="200"/>
 </div>
 
 <div align="center">
