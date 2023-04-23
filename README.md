@@ -17,22 +17,24 @@
   <img src="https://komarev.com/ghpvc/?username=PRATHAM-099&style=flat&color=blue" height="20px" width="110px" align="center"/>
 </div>
 
+<br>
 <div align="center">
   <h1> ABOUT ME </h1>
 
   :raising_hand_man: I'm Pratham. It's nice to have you on my profile :raising_hand_man:
 
-  🎓 Currently sophomore pursuing a BCA degree 🎓
+  🎓 Currently final year undergrad pursuing the BCA degree 🎓
 
-  :calendar: It's been 19 years and I love the way life is treating me :calendar:
+  :calendar: It's been 20 years and I love the way life is treating me :calendar:
 
   :sparkles: My life has presented me with the beautiful moments to smile about and the worst ones to learn :sparkles:
 
-  :man_technologist: Right now I'm just working on improving my coding skills :man_technologist:
+  :man_technologist: Working on some personal projects :man_technologist:
 
-  ⏳ Time is too precious to waste, so start investing it in your passion. Belive me, you'll get some damn results ⏳
+  :computer: Code as poetry be brief and concise :computer:
 </div>
 
+<br>
 <div align="center">
   <h1> LANGUAGES AND TOOLS </h1>
 
@@ -50,6 +52,7 @@
   </div>
 </div>
 
+<br>
 <div align="center">
   <h1> STATS </h1>
 
@@ -57,15 +60,25 @@
 
 </div>  
   
-<div align="center">  
+<br>
+<div align="center">
+  <h1> STREAK </h1>
 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PRATHAM-099&theme=transparent)](https://git.io/streak-stats)
+  
+</div>
+  
+<br>
+<div align="center">  
   <h1> TOP LANGUAGES USED </h1>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM-099&theme=transparent&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
+<br>
 <div align="center">
+  <h1> </h1>
 
   ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
