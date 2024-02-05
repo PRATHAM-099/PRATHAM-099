@@ -75,11 +75,3 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM-099&theme=transparent&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-<br>
-<div align="center">
-  <h1> </h1>
-
-  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
-</div>
